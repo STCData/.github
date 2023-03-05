@@ -3,7 +3,7 @@
 flowchart LR
   subgraph iOS & OSX
     c1(STCiOSXDataCollector)
-    click c1 "https://github.com/STCData/STCiOSXDataCollector"
+    click c1 href "https://github.com/STCData/STCiOSXDataCollector"
   end
   
   subgraph Linux
