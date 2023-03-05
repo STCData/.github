@@ -1,0 +1,3 @@
+[submodule "STCData"]
+	path = STCData
+	url = git@github.com:STCData/STCData.git
