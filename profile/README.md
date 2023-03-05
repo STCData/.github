@@ -1,6 +1,6 @@
 
 ```mermaid
-flowchart RL
+flowchart TB
   subgraph iOS & OSX
     c1(STCiOSXDataCollector)
     click c1 href "https://github.com/STCData/STCiOSXDataCollector"
