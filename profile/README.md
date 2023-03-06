@@ -25,7 +25,7 @@ flowchart LR
 
  - Support for video, image, speech, text and structured data mining
  - Data collection applications for [iOS, MacOS](https://stcdata.github.io/STCData/docs/Collectors/ios.html), [Android](https://stcdata.github.io/STCData/docs/Collectors/drone.html), [Linux](https://stcdata.github.io/STCData/docs/Collectors/x11.html)
- - On device real time data pre-labeling using fast [vendor provided] models
+ - On device real time data pre-labeling using fast [vendor provided](https://developer.apple.com/documentation/vision) models
  - Realtime data streaming
  - [Data offloading to eventually available servers and pre upload on device data storage balancing](https://stcdata.github.io/STCData/docs/EventualAvailability.html)
 
