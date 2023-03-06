@@ -33,6 +33,5 @@ flowchart LR
 STCData could be used both as a starting point for building out your own data collection pipeline or as ready solution. It's iOS/MacOS application could be installed as data collecting appliance. It features:
 
  - ML aware browser with hierarchical tabs
- - In-app and system wide screencaster
- - User actions mining
+ - In-app and system user actions mining
  - Camera with hands and body poses recognition
