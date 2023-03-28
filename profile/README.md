@@ -1,4 +1,3 @@
-[paper](https://tome.app/stc-9d6/shoggoth-binding-collaborative-ml-data-preprocessing-with-chat-driven-editing-clfjg4et32cgs9m422fqijwvt)
 [promo](https://tome.app/stc-9d6/reinventing-the-dream-all-in-one-data-collection-app-with-browser-camera-and-ml-enabled-natural-speech-applet-developer-environment-cleyk2hy3046l5p2mdwgjgbu3?page=cleyk50zm0aebqt4h0qhu19sg)
 
 
@@ -38,3 +37,8 @@ STCData could be used both as a starting point for building out your own data co
  - ML aware browser with hierarchical tabs
  - In-app and system user actions mining
  - Camera with hands and body poses recognition
+ 
+ 
+ 
+ [paper wip](https://tome.app/stc-9d6/shoggoth-binding-collaborative-ml-data-preprocessing-with-chat-driven-editing-clfjg4et32cgs9m422fqijwvt)
+
