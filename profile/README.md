@@ -1,5 +1,4 @@
-[promo](https://tome.app/stc-9d6/reinventing-the-dream-all-in-one-data-collection-app-with-browser-camera-and-ml-enabled-natural-speech-applet-developer-environment-cleyk2hy3046l5p2mdwgjgbu3?page=cleyk50zm0aebqt4h0qhu19sg)
-
+aka [Stefan Novak](https://github.com/darvin/)
 
 ```mermaid
 flowchart LR
